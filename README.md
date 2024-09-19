@@ -29,9 +29,9 @@
 
 4. Right click on the modpack you just made again and select **Edit**.
 
-5. In the **Settings** tab, under **Custom Commands**, add the following as a pre-launch command:
+5. ~~If it didn't do it already~~ In the **Settings** tab, under **Custom Commands**, add the following as a pre-launch command:
    ```sh
-   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/HazelMoon/PackWiz/(GithubBranch)/pack.toml
+   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/HazelMoon/PackWiz/PokeMoon/pack.toml
    ```
 
 Save the settings and launch the modpack. The modpack will now automatically check for updates and download them when available.
