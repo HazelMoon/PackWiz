@@ -899,6 +899,11 @@ file = "mods/roughly-searchable-2.6.0+1.20.1.jar"
 hash = "d90f3b53abdf20d13b83c59202f9798e879e6d35723a8f9e3814e5ce7d37b838"
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a47d32bc04a461351608608f34543b818019ff928102422078f00d23b7a14fae"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "98739e44d0a6e97c0776861a551cf689d9190a215640210007dd28d3edad9107"
 metafile = true
