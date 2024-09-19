@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Meow/PoBall.png"
+hash = "6cde8d5c894a402a745d444161770b49353c63ad81d9ff5d99132bed8296daeb"
+
+[[files]]
+file = "README.md"
+hash = "2917e48a894c9aadcb36159d2bf0886eb12f3e070793fb0765c132b7a7e24886"
+
+[[files]]
 file = "icon.png"
 hash = "27277f02dd47a81b87acb61716153f4665f4397a03f9750d7b713869498c2edb"
 
