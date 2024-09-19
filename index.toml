@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Meow/PoBall.png"
-hash = "6cde8d5c894a402a745d444161770b49353c63ad81d9ff5d99132bed8296daeb"
+file = ".README.md"
+hash = "add7bbf26bacc4a67aaff11897dedbbec0760c23291fb06de0a8e3fcfe93bc8b"
 
 [[files]]
-file = "README.md"
-hash = "2917e48a894c9aadcb36159d2bf0886eb12f3e070793fb0765c132b7a7e24886"
+file = "Meow/PoBall.png"
+hash = "6cde8d5c894a402a745d444161770b49353c63ad81d9ff5d99132bed8296daeb"
 
 [[files]]
 file = "icon.png"
@@ -1171,7 +1171,3 @@ metafile = true
 file = "mods/yungs-better-strongholds-fabric.pw.toml"
 hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "6e9742b2c170d07dbbb6bf6706cb6e40a2d74f6e6130fdbaa4d5b5a2220b8de7"
