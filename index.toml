@@ -5,10 +5,6 @@ file = ".README.md"
 hash = "add7bbf26bacc4a67aaff11897dedbbec0760c23291fb06de0a8e3fcfe93bc8b"
 
 [[files]]
-file = "Meow/PoBall.png"
-hash = "6cde8d5c894a402a745d444161770b49353c63ad81d9ff5d99132bed8296daeb"
-
-[[files]]
 file = "icon.png"
 hash = "27277f02dd47a81b87acb61716153f4665f4397a03f9750d7b713869498c2edb"
 
