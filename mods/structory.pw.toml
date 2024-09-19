@@ -1,13 +1,13 @@
 name = "Structory"
-filename = "Structory_1.20.2_v1.3.4.jar"
+filename = "Structory_1.20.x_v1.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "741b533bb970d1f413f125b59545e73e04c36325"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/FkaSuQb0/Structory_1.20.x_v1.3.5.jar"
+hash-format = "sha512"
+hash = "2239b6232b32b1358f56c8095b855b7ad3032cc872e2089359682b31dc16b7cad316ba601bfcfe314ab32a51f26cb5a4eb12d27d62a8c879eeda45a251d5839a"
 
 [update]
-[update.curseforge]
-file-id = 4937872
-project-id = 636540
+[update.modrinth]
+mod-id = "aKCwCJlY"
+version = "FkaSuQb0"
