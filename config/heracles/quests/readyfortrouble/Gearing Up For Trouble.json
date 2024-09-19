@@ -1,0 +1,120 @@
+{
+  "dependencies": [
+    "Setting Up Camp"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "create:cogwheel",
+      "amount": 10,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "23": {
+      "type": "heracles:item",
+      "item": "create:belt_connector",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "create:large_cogwheel",
+      "amount": 10,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "3": {
+      "type": "heracles:item",
+      "item": "create:shaft",
+      "amount": 20,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Team Rocket:",
+      "",
+      "Ah, crafting gears for devious contraptions, the essence of Team Rocket brilliance! ",
+      "",
+      "Now, assemble those gears with the precision of a mastermind. Create contraptions that'll make our enemies shake!. Maybe a sneaky net launcher or a hypnotic spinning device to baffle our foes.",
+      "",
+      "With our contraptions, we'll be unstoppable! So, grab those tools, Trainer, and let's engineer some chaos that even Giovanni would applaud. "
+    ],
+    "groups": {
+      "Ready For Trouble?": {
+        "position": [
+          -170,
+          -190
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:large_cogwheel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gearing Up For Trouble"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

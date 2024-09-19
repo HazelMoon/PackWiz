@@ -1,0 +1,102 @@
+{
+  "dependencies": [
+    "Runic Altar"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "botania:vinculotus",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "q": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "botania:floating_vinculotus",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "e": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:end_rod",
+        "count": 32
+      },
+      "type": "heracles:item"
+    },
+    "w": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "This one prevents enderman from teleporting."
+    ],
+    "groups": {
+      "Erika, The Botanist": {
+        "position": [
+          -45,
+          75
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "botania:vinculotus",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Vinculotus"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": false,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

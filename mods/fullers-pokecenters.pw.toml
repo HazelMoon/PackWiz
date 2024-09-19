@@ -1,0 +1,13 @@
+name = "Fuller's Pokecenters"
+filename = "fullerspkcenter-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f91905f69ba09d1d2836192e9061e8420660841f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5132181
+project-id = 978819

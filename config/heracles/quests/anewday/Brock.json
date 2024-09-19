@@ -1,0 +1,144 @@
+{
+  "dependencies": [
+    "Meeting New Friends"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "minecraft:cobblestone",
+      "amount": 128,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "23": {
+      "type": "heracles:item",
+      "item": "minecraft:cobbled_deepslate",
+      "amount": 128,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "45": {
+      "type": "heracles:item",
+      "item": "minecraft:andesite",
+      "amount": 64,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "12": {
+      "type": "heracles:item",
+      "item": "minecraft:tuff",
+      "amount": 64,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "minecraft:granite",
+      "amount": 64,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "3": {
+      "type": "heracles:item",
+      "item": "minecraft:diorite",
+      "amount": 64,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 50
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Unlocks Brock Questline"
+    },
+    "description": [
+      "Brock:",
+      "",
+      "Hey, Trainer! You're now rollin' with me, Brock, the rock-solid Pokémon breeder and Pewter City Gym Leader. What's cookin', Trainer? If you've got questions about Pokémon, rock types, or anything on the journey, I'm your guy. Let's hit the road and make this adventure as rockin' as an Onix in a quarry!"
+    ],
+    "groups": {
+      "A New Day": {
+        "position": [
+          -140,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:stone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Brock"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

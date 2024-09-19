@@ -1,0 +1,13 @@
+name = "PokeMoon"
+author = "HazelMoon"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7487fb3e89ae36b82ad783c17d0ab6c95656660345134728bfb29659bf20f6d5"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"

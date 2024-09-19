@@ -1,0 +1,98 @@
+{
+  "dependencies": [
+    "Meeting New Friends"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "luphieclutteredmod:cute_purple_bicycle",
+      "amount": 3,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "purple": {
+      "type": "heracles:item",
+      "item": "suppsquared:gold_candle_holder_purple",
+      "amount": 3,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "minecraft:purple_candle",
+      "amount": 6,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "13": {
+      "type": "heracles:item",
+      "item": "convenientdecor:purple_umbrella",
+      "amount": 3,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Unlocks Sabrina Storyline"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "A New Day": {
+        "position": [
+          -220,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "convenientdecor:purple_umbrella",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Sabrina"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

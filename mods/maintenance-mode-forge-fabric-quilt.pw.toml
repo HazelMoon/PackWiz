@@ -1,0 +1,13 @@
+name = "Maintenance Mode"
+filename = "MaintenanceMode-Universal-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe5211c35c49ec29ff8f8db4072b6c5a85ab90dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5700059
+project-id = 630716

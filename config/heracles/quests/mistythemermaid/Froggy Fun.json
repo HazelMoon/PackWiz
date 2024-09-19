@@ -1,0 +1,134 @@
+{
+  "dependencies": [
+    "Coral Caretaker"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "minecraft:tadpole_bucket",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "12": {
+      "type": "heracles:item",
+      "item": "minecraft:ochre_froglight",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "minecraft:verdant_froglight",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "4": {
+      "type": "heracles:item",
+      "item": "minecraft:pearlescent_froglight",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "5": {
+      "type": "heracles:item",
+      "item": "nightlights:frog_lime",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Misty:",
+      "",
+      "Nice job cleaning up the ocean! Now let's have some fun!",
+      "",
+      "Frogs are like the rockstars of the Pokémon world. Froakie, Poliwag, and their crew bring a splash of coolness to the scene. Whether you're chilling by a pond or making waves in battles, these little hoppers are always bringing the hype. So, next time you spot a Froakie, give it a nod – it's like the VIP of the pond party!",
+      "",
+      "It's time for us to have our own little froggy rave!"
+    ],
+    "groups": {
+      "Misty, The Mermaid": {
+        "position": [
+          -170,
+          -70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "nightlights:frog_lime",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Froggy Fun"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

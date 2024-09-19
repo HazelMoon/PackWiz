@@ -1,0 +1,76 @@
+{
+  "dependencies": [
+    "Dusty Treasures"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "ironchests:crystal_chest",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 5
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Brock:",
+      "",
+      "Listen up, Trainer! After a day of rock-solid adventures, you gotta stash your loot somewhere special. That's where the /e/Crystal Chest/e/ comes in – your personal vault for all those precious minerals, pulverized gems, and maybe even a rare fossil or two.",
+      "",
+      "It's not just a box; it's a treasure trove where memories of your rocky conquests are kept safe. So, after a day of mining and investigation, swing by your Crystal Chest, deposit your haul, and revel in the satisfaction of a collection that's as solid as an Onix in a steel cage match. Your Crystal Chest – where the memories of your adventures rock on!"
+    ],
+    "groups": {
+      "Brock, The Rock": {
+        "position": [
+          -170,
+          -70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "ironchests:crystal_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Rocky Day's End"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "dependencies": [
+    "Ocean Charting"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "minecraft:cod_bucket",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "minecraft:salmon_bucket",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "13": {
+      "type": "heracles:item",
+      "item": "techreborn:rubber",
+      "amount": 10,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "3": {
+      "type": "heracles:item",
+      "item": "minecraft:pufferfish_bucket",
+      "amount": 2,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "4": {
+      "type": "heracles:item",
+      "item": "minecraft:tropical_fish_bucket",
+      "amount": 5,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Misty:",
+      "",
+      "Consider joining local cleanup events or rallying fellow trainers for a Pokémon-powered cleanup squad. It's not just about saving the fish; it's about preserving the beauty of our waterways and creating a pristine environment for Water-type Pokémon.",
+      "",
+      "Every bit helps, so let's be the stewards our Pokémon companions would be proud of. Clean seas, happy Pokémon – that's the goal! "
+    ],
+    "groups": {
+      "Misty, The Mermaid": {
+        "position": [
+          -170,
+          -130
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:salmon_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Saving the Fish"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

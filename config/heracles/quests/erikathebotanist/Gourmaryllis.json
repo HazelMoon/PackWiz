@@ -1,0 +1,132 @@
+{
+  "dependencies": [
+    "Runic Altar"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "botania:gourmaryllis",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "botania:floating_gourmaryllis",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "3": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:cooked_beef",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "4": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:cooked_porkchop",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "5": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "botania:cosmetic_tiny_potato_mask",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "botania:cosmetic_tiny_potato_mask",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "The gourmaryllis turns dropped food into mana, the better the food, the more mana obtained."
+    ],
+    "groups": {
+      "Erika, The Botanist": {
+        "position": [
+          -245,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "botania:gourmaryllis",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gourmaryllis"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": false,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

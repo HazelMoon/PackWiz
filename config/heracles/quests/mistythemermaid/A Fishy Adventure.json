@@ -1,0 +1,112 @@
+{
+  "dependencies": [
+    "Misty"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "minecraft:salmon",
+      "amount": 6,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "12": {
+      "type": "heracles:item",
+      "item": "minecraft:cod",
+      "amount": 6,
+      "collection": "MANUAL",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "minecraft:fishing_rod",
+      "nbt": {
+        "Damage": 0
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Misty:",
+      "",
+      "Hey there, Trainer! How 'bout we reel in some fun and embark on a classic fishing trip? Grab your trusty rod, find a serene spot by a shimmering lake or a babbling brook, and cast away!",
+      "",
+      "With a bit of patience and a sprinkle of luck, we could hook Water-type Pokémon like Magikarp or even a feisty Gyarados. It's not just about the catch; it's about soaking in the tranquility, feeling the rhythm of the waves, and enjoying the thrill of the unknown lurking beneath the surface.",
+      "",
+      "So, gear up, cast that line, and let's make this fishing trip a splash of adventure in the vast sea of Pokémon possibilities!"
+    ],
+    "groups": {
+      "Misty, The Mermaid": {
+        "position": [
+          -170,
+          -220
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:fishing_rod",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "A Fishy Adventure"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

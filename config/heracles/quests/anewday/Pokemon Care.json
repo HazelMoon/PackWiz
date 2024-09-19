@@ -1,0 +1,111 @@
+{
+  "dependencies": [
+    "Your First Pokemon"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "cobblemon:oran_berry",
+      "amount": 10,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "3": {
+      "type": "heracles:item",
+      "item": "cobblemon:revival_herb",
+      "amount": 6,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "2": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "cobblemon:max_revive",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "cobblemon:max_revive",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "coin": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Professor A:",
+      "",
+      "Yo, G, let's talk about keeping your Pokémon in top-notch shape with some natural remedies – we're talking about healing without the fancy potions, right from Mother Nature's toolkit!",
+      "",
+      "First up, we got Berries – these bad boys are like the Pokémon world's superfoods. /e/Oran Berries/e/? They're the go-to for patching up your Pokémon after a tough battle. Just pop one in their mouth, and they'll be back in action.",
+      "",
+      "Then there's /e/Medicinal Leeks/e/. Yeah, turns out it's not just for sunburns. Mix that gooey goodness with water, and you've got a natural potion to soothe your Pokémon's bumps and bruises.",
+      "",
+      "And don't sleep on the healing power of the /e/Revival Herb/e/. It's like the ultimate pick-me-up for your fainted Pokémon. One sniff, and they'll be back on their feet, ready to throw down. Be sure to mix in some honey!",
+      "",
+      "Keep your Pokémon thriving with these rad natural cures. Your team will thank you for it!"
+    ],
+    "groups": {
+      "A New Day": {
+        "position": [
+          -100,
+          -50
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "cobblemon:oran_berry",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Pokemon Care"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

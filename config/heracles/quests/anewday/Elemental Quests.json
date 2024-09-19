@@ -1,0 +1,80 @@
+{
+  "dependencies": [
+    "Brock",
+    "Rock Expert"
+  ],
+  "tasks": {
+    "1": {
+      "title": "Visist a Mountain",
+      "icon": {
+        "item": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "wythers:volcano",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 20
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Unlocks Elemental Adventures Questline"
+    },
+    "description": [
+      "Brock:",
+      "",
+      "Trainer, you're about to hit the big leagues in elemental mastery! Finding all the elemental stones is the key to a whole new level of Pokémon evolution.",
+      "",
+      "Imagine this: Fire Stones sparking up a Vulpix into a majestic Ninetales, Thunder Stones turning Pikachu into the electrifying Raichu, and Water Stones giving Eevee the aquatic flair of Vaporeon.",
+      "",
+      "With each elemental stone in your arsenal, you're not just evolving Pokémon; you're sculpting a team!"
+    ],
+    "groups": {
+      "A New Day": {
+        "position": [
+          -100,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "cobblemon:thunder_stone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Elemental Quests"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

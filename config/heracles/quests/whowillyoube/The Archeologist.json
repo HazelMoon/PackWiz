@@ -1,0 +1,78 @@
+{
+  "dependencies": [
+    "Who will you be?"
+  ],
+  "tasks": {
+    "brush": {
+      "type": "heracles:item",
+      "item": "minecraft:brush",
+      "nbt": {
+        "Damage": 0
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Brush",
+      "icon": {
+        "item": {
+          "id": "minecraft:brush",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "Coins": {
+      "title": "Silver Coin",
+      "icon": {
+        "item": {
+          "id": "numismatic-overhaul:silver_coin",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Who will you be?": {
+        "position": [
+          -105,
+          -110
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "betterarcheology:villager_fossil_head",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "The Archeologist"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

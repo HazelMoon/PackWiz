@@ -1,0 +1,140 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				pig = true
+				skeleton = true
+				bat = true
+				husk = true
+				frog = true
+				rabbit = true
+				silverfish = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				phantom = true
+				evoker = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				snowball = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				ravager = true
+				donkey = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				cat = true
+				zombie = true
+				sheep = true
+				player = true
+				pufferfish = true
+				illusioner = true
+				potion = true
+				trident = true
+				eye_of_ender = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
+				painting = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
+				goat = true
+
+			[light_sources.settings.entities.handcrafted]
+				seat = true
+
+			[light_sources.settings.entities.smallships]
+				brigg = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				airship = true
+				biplane = true
+
+			[light_sources.settings.entities.vinery]
+				wandering_winemaker = true
+
+			[light_sources.settings.entities.doapi]
+				chair = true
+
+			[light_sources.settings.entities.automobility]
+				automobile = true
+
+			[light_sources.settings.entities.beachparty]
+				pelican = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.meadow]
+				brown_bear = true
+				wooly_cow = true
+				water_buffalo = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.cobblemon]
+				empty_pokeball = true
+				pokemon = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
+				savannah_creeper = true
+				spruce_creeper = true
+				hills_creeper = true
+				snowy_creeper = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+				cave_enderman = true
+				flower_fields_enderman = true
+
+			[light_sources.settings.entities.snowyspirit]
+				sled = true
+

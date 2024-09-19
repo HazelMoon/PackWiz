@@ -1,0 +1,78 @@
+{
+  "dependencies": [
+    "Saving the Fish"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "#c:living_coral_plants",
+      "amount": 10,
+      "collection": "AUTOMATIC",
+      "title": "Replant Coral",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "1": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Misty:",
+      "",
+      "Hey Trainer, let's chat about being stewards of the sea and taking care of our coral reefs. First off, when you're exploring those vibrant underwater worlds, avoid touching or disturbing the coral. It's like their personal space, you know?",
+      "",
+      "If you spot any trash while you're swimming, scoop it up. Cleaner seas mean happier coral and Pokémon. Plus, you can join in on coral restoration projects. Planting new coral is like giving the reefs a little boost, and it's a hands-on way to make a positive impact.",
+      "",
+      "Spread the word, too. The more trainers we get on board with responsible ocean behavior, the healthier our coral reefs and the Pokémon that call them home will be. So, let's make sure our underwater adventures leave the coral reefs thriving and full of life! "
+    ],
+    "groups": {
+      "Misty, The Mermaid": {
+        "position": [
+          -170,
+          -100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:brain_coral",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Coral Caretaker"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

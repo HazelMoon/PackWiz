@@ -1,0 +1,100 @@
+{
+  "dependencies": [
+    "Welcome"
+  ],
+  "tasks": {
+    "Player Shop": {
+      "type": "heracles:item",
+      "item": "numismatic-overhaul:shop",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Player Shop",
+      "icon": {
+        "item": {
+          "id": "numismatic-overhaul:shop",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "Selling Bin": {
+      "type": "heracles:item",
+      "item": "selling-bin:wooden_bin",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Selling Bin",
+      "icon": {
+        "item": {
+          "id": "selling-bin:wooden_bin",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "Daily Shop": {
+      "type": "heracles:item",
+      "item": "exmod:exchange_block",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Daily Shop",
+      "icon": {
+        "item": {
+          "id": "exmod:exchange_block",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "Beginner Wallet": {
+      "title": "Coins",
+      "icon": {
+        "item": {
+          "id": "numismatic-overhaul:silver_coin",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "numismatic-overhaul:silver_coin",
+        "count": 10
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "In Cobblemon Journeys, the daily rhythm of a Pokémon Trainer's life is intertwined with the dynamic economic system, based on Stardew Valley's charm. The /e/Daily Shop/e/ beckons with its ever-changing inventory, offering essential items crucial for a trainer's journey, from healing potions to rare evolution stones. Trainers must strategically navigate this marketplace, capitalizing on limited-time offers to fortify their Pokémon team and overall progression. Meanwhile, the /e/Selling Bin/e/ provides a convenient outlet for selling accumulated goods and loot, contributing to a growing financial empire that complements the thrill of Pokémon battles. "
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -130,
+          -50
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "exmod:exchange_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Economy"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

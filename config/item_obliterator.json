@@ -1,0 +1,28 @@
+{
+  "blacklisted_items": [
+    "//Items here will be unusable completely",
+    "unimplemented_items:dry_root"
+  ],
+  "only_disable_interactions": [
+    "//Items here will not be able to be right-clicked (Interact)",
+    "examplemod:example_item"
+  ],
+  "only_disable_attacks": [
+    "//Items here will not be able to be used to attack",
+    "examplemod:example_item"
+  ],
+  "only_disable_recipes": [
+    "//Items here will get their recipes disabled",
+    "//Keep in mind this already is applied to blacklisted items",
+    "immersive_aircraft:eco_engine",
+    "immersive_aircraft:nether_engine",
+    "immersive_aircraft:steel_boiler",
+    "immersive_aircraft:industrial_gears",
+    "immersive_aircraft:sturdy_pipes",
+    "immersive_aircraft:improved_landing_gear",
+    "immersive_aircraft:gyroscope",
+    "plushables:builder_block",
+    "automobility:auto_mechanic_table",
+    "automobility:automobile_assembler"
+  ]
+}

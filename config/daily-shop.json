@@ -1,0 +1,1349 @@
+{
+  "trades-amount": 6,
+  "trades": {
+    "automobility:auto_mechanic_table": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:automobile_assembler": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:dash_panel": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:slope": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "automobility:steep_slope": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:bread_crate": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:breadbox": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:cake_stand": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:chocolate_box": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:oat_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:strawberry_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:street_sign": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "bakery:tray": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:beetroot_crate": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:carrot_crate": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:chocolate_box": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:hearth": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:lettuce_crate": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:note_paper": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:painting": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:potato_crate": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:table_sign": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:tomato_crate": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:tomato_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:tool_rack": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:typewriter_copper": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "candlelight:typewriter_iron": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:alchemy_bench": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:botanist_workbench": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:carpenters_table": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:glassblower": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:loom_table": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:mason_table": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "chipped:tinkering_table": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:chicken_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:cow_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:fox_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:hops_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:kiwi_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:kiwi_tree_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:ocelot_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:panda_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:pig_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:sheep_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:snow_fox_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:squid_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:thornbloom_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:toilet": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:towel": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "clutter:tube_tv": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:beast_ball": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 10
+    },
+    "cobblemon:black_apricorn_seed": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:blue_apricorn_seed": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:blue_mint_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:cherish_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 5,
+      "amount": 5,
+      "rarity": 1
+    },
+    "cobblemon:cyan_mint_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:dive_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 25,
+      "amount": 20,
+      "rarity": 1
+    },
+    "cobblemon:dream_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 20,
+      "amount": 15,
+      "rarity": 1
+    },
+    "cobblemon:dusk_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 15,
+      "amount": 12,
+      "rarity": 1
+    },
+    "cobblemon:fast_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 20,
+      "amount": 18,
+      "rarity": 1
+    },
+    "cobblemon:friend_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 5,
+      "amount": 5,
+      "rarity": 1
+    },
+    "cobblemon:green_apricorn_seed": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:green_mint_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:heal_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 5,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:heavy_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 15,
+      "amount": 12,
+      "rarity": 1
+    },
+    "cobblemon:level_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 15,
+      "amount": 12,
+      "rarity": 1
+    },
+    "cobblemon:lure_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 10,
+      "amount": 10,
+      "rarity": 1
+    },
+    "cobblemon:luxury_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 5,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:moon_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 10,
+      "amount": 10,
+      "rarity": 1
+    },
+    "cobblemon:nest_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 10,
+      "amount": 10,
+      "rarity": 1
+    },
+    "cobblemon:net_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 15,
+      "amount": 12,
+      "rarity": 1
+    },
+    "cobblemon:park_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 15,
+      "amount": 15,
+      "rarity": 1
+    },
+    "cobblemon:pink_apricorn_seed": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:pink_mint_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:premier_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 5,
+      "amount": 5,
+      "rarity": 1
+    },
+    "cobblemon:red_apricorn_seed": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:safari_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 15,
+      "amount": 15,
+      "rarity": 1
+    },
+    "cobblemon:sport_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 10,
+      "amount": 10,
+      "rarity": 1
+    },
+    "cobblemon:timer_ball": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 10,
+      "amount": 10,
+      "rarity": 1
+    },
+    "cobblemon:vivichoke_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:white_mint_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 20,
+      "amount": 1,
+      "rarity": 1
+    },
+    "cobblemon:yellow_apricorn_seed": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 30,
+      "amount": 1,
+      "rarity": 1
+    },
+    "immersive_aircraft:eco_engine": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "immersive_aircraft:gyroscope": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "immersive_aircraft:improved_landing_gear": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "immersive_aircraft:industrial_gears": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "immersive_aircraft:nether_engine": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "immersive_aircraft:steel_boiler": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "immersive_aircraft:sturdy_pipes": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:acacia_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:beetroot_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:birch_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:black_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:blaze_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:blue_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:brown_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:cherry_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:chicken_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:cow_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:creeper_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:cyan_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:dark_oak_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:drowned_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:enderman_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:evoker_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:ghast_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:gray_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:green_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:guardian_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:hoglin_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:husk_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:jungle_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:light_blue_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:light_gray_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:lime_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:magenta_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:magma_cube_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:melon_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_11": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_13": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_5": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_blocks": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_cat": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_chirp": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_far": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_mall": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_mellohi": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_otherside": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_pigstep": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_relic": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_stal": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_strad": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_wait": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:music_disc_ward": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:oak_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:orange_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pig_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:piglin_brute_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:piglin_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pillager_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pink_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:pumpkin_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:purple_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:red_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:sheep_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:shulker_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:skeleton_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:slime_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:spider_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:spruce_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:squid_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:stray_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:torchflower_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:vindicator_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:wheat_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:white_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:witch_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:wither_skeleton_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:yellow_dye": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:zombified_piglin_spawn_egg": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 6,
+      "amount": 1,
+      "rarity": 1
+    },
+    "plushables:builder_block": {
+      "currency": "numismatic-overhaul:silver_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:allay_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:axolotl_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:bee_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:camel_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:cat_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:chicken_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:cow_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:dolphin_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:fox_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:frog_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:horse_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:mooshroom_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:panda_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:parrot_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:pig_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:rabbit_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:sheep_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:sniffer_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:turtle_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_animals:wolf_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:creeper_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:enderman_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:ghast_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:phantom_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:skeleton_horse_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:skeleton_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:spider_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:witch_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:wither_skeleton_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:zoglin_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "practical_plushies_mobs:zombie_plushie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 50,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:candy_cane": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:candy_cane_block": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 8,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:eggnog": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:ginger_flower": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:gingerbread_cookie": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 2,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_blue": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_prismatic": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_red": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_white": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:glow_lights_yellow": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:sled_cherry": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:sled_oak": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:snow_globe": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "snowyspirit:wreath": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "unimplemented_items:bottle_cap": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 1,
+      "amount": 1,
+      "rarity": 2
+    },
+    "unimplemented_items:bottle_cap_gold": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 10
+    },
+    "vinery:apple_tree_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:basket": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:cherry_sapling": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 10,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:flower_box": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:flower_pot": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 15,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:jungle_grape_seeds_red": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:jungle_grape_seeds_white": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:red_grape_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:savanna_grape_seeds_red": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:savanna_grape_seeds_white": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:storage_pot": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:taiga_grape_seeds_red": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:taiga_grape_seeds_white": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:white_grape_seeds": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "vinery:wine_box": {
+      "currency": "numismatic-overhaul:bronze_coin",
+      "price": 25,
+      "amount": 1,
+      "rarity": 1
+    },
+    "minecraft:nether_star": {
+      "currency": "numismatic-overhaul:gold_coin",
+      "price": 4,
+      "amount": 1,
+      "rarity": 10
+    }
+  }
+}

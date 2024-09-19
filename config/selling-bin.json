@@ -1,0 +1,462 @@
+{
+  "artifacts:antidote_vessle": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:aqua_dashers": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:bunny_hoppers": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:charm_of_sinking": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:cloud_in_a_bottle": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:cross_necklace": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:crystal_heart": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:digging_claws": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:eternal_steak": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:feral_claws": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:fire_gauntlet": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:flame_pendant": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:flippers": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:golden_hook": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:helium_flamingo": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:kitty_slippers": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:lucky_scarf": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:night_vision_goggles": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:novelty_drinking_hat": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:obsidian_skull": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:panic_necklace": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:plastic_drinking_hat": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:pocket_piston": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:power_glove": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:running_shoes": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:scarf_of_invisibility": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:shock_pendant": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:snorkel": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:steadfast_spikes": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:superstitious_hat": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:thorn_pendant": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:umbrella": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:universal_attractor": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:vampiric_glove": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:villager_hat": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "artifacts:whoopee_cushion": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "minecraft:bamboo": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 4,
+    "sellAmount": 5
+  },
+  "minecraft:beetroot": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 4,
+    "sellAmount": 3
+  },
+  "minecraft:blaze_rod": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 10,
+    "sellAmount": 3
+  },
+  "minecraft:bone": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "minecraft:cactus": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 5,
+    "sellAmount": 3
+  },
+  "minecraft:carrot": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 4,
+    "sellAmount": 5
+  },
+  "minecraft:cocoa_beans": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 2,
+    "sellAmount": 5
+  },
+  "minecraft:ender_pearl": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 3,
+    "sellAmount": 4
+  },
+  "minecraft:feather": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 2,
+    "sellAmount": 3
+  },
+  "minecraft:ghast_tear": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 20,
+    "sellAmount": 5
+  },
+  "minecraft:glow_berries": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 2,
+    "sellAmount": 5
+  },
+  "minecraft:gunpowder": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 7,
+    "sellAmount": 3
+  },
+  "minecraft:kelp": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 4,
+    "sellAmount": 5
+  },
+  "minecraft:leather": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 6,
+    "sellAmount": 5
+  },
+  "minecraft:magma_cream": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 3,
+    "sellAmount": 5
+  },
+  "minecraft:melon_slice": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 4,
+    "sellAmount": 5
+  },
+  "minecraft:potato": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 3,
+    "sellAmount": 5
+  },
+  "minecraft:prismarine_shard": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 3,
+    "sellAmount": 5
+  },
+  "minecraft:pumpkin": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 4,
+    "sellAmount": 3
+  },
+  "minecraft:rotten_flesh": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 1,
+    "sellAmount": 4
+  },
+  "minecraft:shulker_shell": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 20,
+    "sellAmount": 5
+  },
+  "minecraft:slime_ball": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 8,
+    "sellAmount": 5
+  },
+  "minecraft:spider_eye": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 1,
+    "sellAmount": 5
+  },
+  "minecraft:sugar_cane": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 3,
+    "sellAmount": 5
+  },
+  "minecraft:wheat": {
+    "currency": "numismatic-overhaul:bronze_coin",
+    "sellPrice": 2,
+    "sellAmount": 3
+  },
+  "simplyswords:arcanethyst": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:awakened_lichblade": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:bramblethorn": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:brimstone_claymore": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:dormant_relic": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:emberblade": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:frostfall": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:harbinger": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:hearthflame": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:icewhisper": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:livyatan": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:mjolnir": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:molten_edge": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:righteous_relic": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:shadowsting": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:slumbering_lichblade": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:soulkeeper": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:soulpyre": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:soulrender": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:soulstealer": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:stormbringer": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:storms_edge": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:sunfire": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:tainted_relic": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:thunderbrand": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:toxic_longsword": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:twisted_blade": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:waking_lichblade": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:watcher_claymore": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:watching_warglaive": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  },
+  "simplyswords:whisperwind": {
+    "currency": "numismatic-overhaul:silver_coin",
+    "sellPrice": 50,
+    "sellAmount": 1
+  }
+}
