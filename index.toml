@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Meow/PoBall.png"
+hash = "6cde8d5c894a402a745d444161770b49353c63ad81d9ff5d99132bed8296daeb"
+
+[[files]]
+file = "README.md"
+hash = "2917e48a894c9aadcb36159d2bf0886eb12f3e070793fb0765c132b7a7e24886"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "59f5e05cb1bb7802296364ada7d01b295ff2be3ab7bb359a1b7458f0f119da85"
 
@@ -3054,11 +3062,6 @@ hash = "2462ed00a731c1d65304279366a2fb5fd84c035f7fb6cc20e0a5639689b66d7d"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "ea5948c4d9cb5c51a31acbd8643a7f3c2e4fa52cccd88b4b31f3ef242707990f"
-metafile = true
-
-[[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "a9adcfa8ef8eb848a913c9b7ffbab89c70b4df24a6ed075ed9c473b7b07a2166"
 metafile = true
@@ -3288,7 +3291,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "6e9742b2c170d07dbbb6bf6706cb6e40a2d74f6e6130fdbaa4d5b5a2220b8de7"
-
-[[files]]
-file = "servers.dat"
-hash = "c544daaf88943291ba1e47ca568ee95825204db1d595132c52a47eb96a485a5c"
