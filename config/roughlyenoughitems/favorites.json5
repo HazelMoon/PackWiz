@@ -1,9 +1,0 @@
-{
-	"favorites": [
-		"{data:{Count:1b,id:\"cobblemon:oran_berry\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"cobblemon:blue_mint_leaf\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{Count:1b,id:\"cobblemon:poke_ball\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-	],
-	"hiddenFavorites": [],
-	"displays": []
-}
