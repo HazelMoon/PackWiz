@@ -18,7 +18,8 @@
 > **IMPORTANT**: Updates are available only on the Prism Launcher.
 > [Install PrismLauncher](https://prismlauncher.org/download/)
 
-1. Create a New Instance (Make it Vanilla)
+1. Create a New Instance:
+   Set the Minecraft Version to 1.20.1 and Fabric Loader to 0.15.11
 
 1. Download the latest `packwiz-installer-bootstrap.jar` from the [Packwiz GitHub releases](https://github.com/comp500/packwiz-installer-bootstrap/releases).
 
